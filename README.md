@@ -1,2 +1,5 @@
 # hello-world
-My Hello World Repository
+
+Hey All,
+
+I am learning with my 9 month old son everyday.
